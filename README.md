@@ -1,5 +1,5 @@
 ## Description
-This code is my implementation of Deep Q Learning, Actor Critic, and Soft Actor Critics Algorithm.
+This code is my implementation of Deep Q Learning, Actor Critic, and Soft Actor Critics Algorithm for CS285
 
 ## Install dependencies
 
